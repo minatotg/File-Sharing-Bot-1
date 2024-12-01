@@ -10,12 +10,12 @@ API_ID = int(os.environ.get("API_ID", "25881642"))
 API_HASH = os.environ.get("API_HASH", "50513ea0519887eef06cc726fd485c15")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6971954079"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6164325833"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://nshubh345:1FmseyW0TKaWNMNo@cluster0.pgewb.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "filesharexbot")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002394197305"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002357171302"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002440376099"))
 
 
